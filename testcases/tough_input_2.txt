@@ -1,0 +1,39 @@
+add_trade_bank HSBC
+add_currency HSBC a
+add_currency HSBC b
+add_currency HSBC c
+add_currency HSBC d
+add_currency HSBC e
+add_conversion HSBC a b 10
+add_conversion HSBC b e 9
+add_conversion HSBC b c 12
+add_conversion HSBC c d 5
+add_conversion HSBC c e 17
+add_conversion HSBC d a 13
+add_conversion HSBC e d 3
+add_trade_bank ICI
+add_currency ICI a
+add_currency ICI b
+add_currency ICI c
+add_currency ICI d
+add_currency ICI e
+add_conversion ICI a b 8
+add_conversion ICI a c 14
+add_conversion ICI b d 15
+add_conversion ICI b e 17
+add_conversion ICI c a 5
+add_conversion ICI c d 6
+add_conversion ICI d e 5
+print_trade_bank HSBC
+print_trade_bank ICI
+find_cycle HSBC
+find_cycle ICI
+best_path a d
+second_best_path a d
+delete_conversion HSBC b e
+best_path a d
+second_best_path a d
+delete_conversion ICI a b
+best_path a d
+second_best_path a d
+exit

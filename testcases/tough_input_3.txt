@@ -1,0 +1,41 @@
+add_trade_bank XYZ
+add_currency XYZ a
+add_currency XYZ b
+add_currency XYZ c
+add_currency XYZ d
+add_currency XYZ e
+add_conversion XYZ a b 7
+add_conversion XYZ a c 20
+add_conversion XYZ b d 16
+add_conversion XYZ c d 5
+add_conversion XYZ e d 25
+add_conversion XYZ e c 20
+print_trade_bank XYZ
+best_path a e
+best_path a b
+second_best_path a b
+best_path a d
+second_best_path a d
+find_cycle XYZ
+add_trade_bank PQR
+add_currency PQR a
+add_currency PQR b
+add_currency PQR c
+add_currency PQR d
+add_currency PQR e
+add_conversion PQR a e 12
+add_conversion PQR a d 23
+add_conversion PQR b d 5
+add_conversion PQR c b 18
+add_conversion PQR d c 16
+add_conversion PQR e b 7
+add_conversion PQR e d 13
+print_trade_bank PQR
+find_cycle PQR
+best_path a d
+second_best_path a d
+best_path c d
+second_best_path c d
+best_path e d
+second_best_path e d
+exit

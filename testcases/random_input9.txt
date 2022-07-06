@@ -1,0 +1,504 @@
+add_trade_bank HSBC
+add_currency HSBC ALL
+add_currency HSBC AFN
+delete_conversion ICC INR USD
+add_currency ICICI BSD
+add_conversion SBI ARM EUR 13
+add_trade_bank ICB
+add_conversion DASS BSD BDT 14
+best_path INR AFN
+delete_currency DASS BSD
+delete_trade_bank FABB
+delete_currency ICC AOA
+add_trade_bank SBI
+delete_conversion ICB AFN BSD
+best_path AOA ARM
+delete_trade_bank FABB
+delete_currency SBI BSD
+find_cycle DASS
+best_path INR AFN
+find_cycle FABB
+add_conversion ICICI ALL USD 410
+delete_conversion FABB USD AFN
+add_conversion ICC EUR ALL 113
+add_trade_bank FABB
+delete_trade_bank HSBC
+add_trade_bank SBI
+delete_conversion HSBC BSD EUR
+delete_trade_bank ICC
+delete_trade_bank FABB
+add_trade_bank ICB
+add_trade_bank ICC
+add_trade_bank ICC
+delete_currency FABB BDT
+add_currency SBI BDT
+find_cycle HSBC
+find_cycle ICC
+best_path AOA USD
+add_currency SBI ALL
+find_cycle SBI
+delete_trade_bank DASS
+delete_conversion ICB USD BSD
+delete_trade_bank ICC
+delete_currency DASS ARM
+best_path BSD EUR
+delete_currency HSBC AFN
+add_currency ICB AFN
+delete_conversion ICICI BDT INR
+delete_trade_bank HSBC
+add_trade_bank SBI
+add_conversion SBI AFN INR 338
+add_currency DASS AOA
+delete_currency DASS USD
+delete_trade_bank SBI
+best_path INR BSD
+best_path BSD AFN
+add_currency FABB ARM
+delete_currency ICC AOA
+delete_conversion ICC BSD BDT
+add_trade_bank FABB
+add_trade_bank DASS
+add_currency ICC INR
+find_cycle ICC
+delete_currency ICC INR
+find_cycle ICICI
+add_currency SBI USD
+add_trade_bank ICC
+delete_currency DASS ALL
+find_cycle ICICI
+delete_conversion ICC EUR AFN
+add_currency ICB BSD
+delete_currency ICC EUR
+add_conversion ICICI EUR BSD 224
+add_trade_bank HSBC
+add_trade_bank SBI
+delete_conversion SBI AOA BDT
+add_currency ICB EUR
+delete_conversion ICICI USD ALL
+add_trade_bank DASS
+delete_currency ICB BDT
+best_path INR BSD
+find_cycle HSBC
+delete_conversion SBI USD ARM
+add_trade_bank ICC
+best_path BSD USD
+add_trade_bank FABB
+add_currency ICB USD
+find_cycle SBI
+find_cycle ICB
+add_conversion ICC ARM AFN 154
+add_trade_bank DASS
+delete_currency HSBC AFN
+add_currency HSBC ALL
+add_currency SBI AOA
+add_currency HSBC BDT
+delete_currency SBI BSD
+delete_currency ICICI EUR
+delete_conversion ICB EUR USD
+best_path ALL BDT
+delete_trade_bank ICICI
+delete_trade_bank DASS
+find_cycle FABB
+add_trade_bank ICB
+best_path BDT EUR
+delete_trade_bank SBI
+add_currency ICB AOA
+best_path BSD AOA
+add_trade_bank ICC
+find_cycle HSBC
+add_trade_bank ICC
+best_path ARM BDT
+find_cycle ICB
+delete_conversion SBI AFN BSD
+delete_trade_bank ICC
+find_cycle ICB
+find_cycle ICICI
+find_cycle ICB
+add_currency FABB AFN
+add_trade_bank DASS
+best_path EUR BSD
+add_trade_bank ICC
+best_path EUR USD
+add_currency SBI AFN
+delete_trade_bank SBI
+delete_conversion DASS USD AFN
+add_conversion FABB BSD INR 269
+delete_currency ICB ARM
+delete_trade_bank ICC
+find_cycle ICB
+find_cycle SBI
+add_conversion ICICI USD ALL 260
+best_path EUR USD
+delete_currency HSBC USD
+add_trade_bank FABB
+add_trade_bank HSBC
+add_currency FABB EUR
+best_path ALL INR
+delete_currency ICB AOA
+add_conversion ICICI AFN ALL 262
+delete_conversion ICC BDT EUR
+best_path ALL AOA
+add_currency ICICI EUR
+delete_currency HSBC EUR
+delete_currency SBI BDT
+add_trade_bank ICB
+delete_trade_bank HSBC
+add_conversion SBI USD EUR 108
+add_trade_bank ICICI
+delete_conversion DASS AOA EUR
+delete_conversion DASS AOA USD
+add_trade_bank FABB
+delete_currency HSBC USD
+add_trade_bank HSBC
+best_path AOA BSD
+add_conversion ICB EUR AFN 143
+delete_trade_bank ICB
+find_cycle HSBC
+add_conversion ICB AOA INR 200
+add_currency ICB AFN
+delete_trade_bank ICICI
+delete_conversion ICICI BDT EUR
+add_conversion FABB AOA ARM 445
+add_currency HSBC ARM
+best_path AFN AOA
+find_cycle SBI
+delete_currency ICB ARM
+find_cycle FABB
+best_path ARM USD
+delete_conversion FABB AFN USD
+delete_trade_bank SBI
+add_trade_bank ICC
+find_cycle FABB
+delete_trade_bank ICB
+add_conversion ICC EUR USD 70
+find_cycle ICICI
+best_path BDT BSD
+delete_conversion SBI ALL AOA
+delete_conversion FABB BSD AFN
+find_cycle FABB
+add_trade_bank ICICI
+delete_currency HSBC EUR
+add_conversion ICB ALL INR 356
+delete_conversion DASS BDT BSD
+delete_currency ICICI AFN
+delete_trade_bank DASS
+delete_currency HSBC AOA
+delete_trade_bank ICB
+best_path AFN INR
+add_conversion ICB AOA ARM 9
+delete_trade_bank HSBC
+best_path USD BSD
+add_currency HSBC AFN
+delete_currency HSBC ARM
+best_path ARM BSD
+delete_currency SBI AOA
+delete_conversion ICICI ALL USD
+delete_currency SBI BSD
+find_cycle DASS
+delete_conversion FABB ARM BSD
+add_conversion ICB ALL EUR 1
+best_path AFN AOA
+add_conversion DASS ALL AOA 77
+find_cycle ICC
+add_conversion ICB AFN ARM 403
+best_path BSD AOA
+delete_currency DASS INR
+find_cycle ICICI
+delete_trade_bank DASS
+add_trade_bank FABB
+add_currency HSBC EUR
+add_trade_bank HSBC
+add_conversion ICB BDT INR 151
+delete_trade_bank DASS
+add_conversion FABB ALL ARM 254
+add_conversion DASS INR USD 222
+best_path AFN INR
+best_path INR AFN
+delete_currency SBI BSD
+best_path EUR AOA
+delete_trade_bank HSBC
+find_cycle HSBC
+best_path INR USD
+delete_trade_bank ICB
+add_currency HSBC ALL
+delete_conversion HSBC ALL INR
+add_conversion ICC ARM BSD 280
+delete_trade_bank DASS
+add_trade_bank HSBC
+add_trade_bank SBI
+delete_trade_bank HSBC
+delete_trade_bank ICC
+add_conversion ICB BDT EUR 188
+best_path EUR AFN
+delete_trade_bank ICICI
+find_cycle ICICI
+find_cycle SBI
+delete_trade_bank FABB
+best_path EUR INR
+delete_currency FABB AOA
+add_trade_bank DASS
+delete_trade_bank FABB
+add_conversion ICB AFN ARM 240
+delete_conversion ICB BSD EUR
+delete_trade_bank SBI
+delete_currency DASS INR
+delete_currency FABB AFN
+delete_currency ICC AOA
+add_currency HSBC USD
+delete_conversion DASS BDT BSD
+best_path ARM AOA
+add_trade_bank HSBC
+add_currency SBI AOA
+find_cycle DASS
+delete_trade_bank FABB
+delete_conversion ICC EUR ARM
+add_trade_bank FABB
+add_trade_bank HSBC
+add_conversion FABB ARM INR 372
+delete_currency SBI AOA
+add_trade_bank ICB
+add_trade_bank HSBC
+add_conversion DASS AOA EUR 353
+add_conversion HSBC ALL BSD 98
+add_currency SBI AFN
+add_trade_bank ICC
+delete_trade_bank FABB
+add_conversion ICB ALL BSD 376
+add_currency DASS BDT
+delete_conversion ICICI AFN ARM
+delete_conversion ICICI AFN AOA
+add_trade_bank ICB
+best_path ARM INR
+add_conversion ICC EUR AOA 91
+delete_trade_bank SBI
+delete_conversion HSBC ARM ALL
+best_path INR ARM
+delete_currency FABB AFN
+add_trade_bank DASS
+find_cycle DASS
+best_path ARM BSD
+add_currency ICICI INR
+delete_trade_bank HSBC
+find_cycle ICICI
+delete_trade_bank ICICI
+find_cycle SBI
+find_cycle ICICI
+delete_conversion FABB AOA BSD
+add_currency FABB BDT
+delete_conversion SBI BSD BDT
+add_currency ICB BDT
+delete_trade_bank ICB
+delete_conversion ICB ALL BDT
+add_currency ICC USD
+add_currency DASS USD
+delete_currency ICICI ARM
+add_currency ICC AOA
+delete_currency DASS BDT
+delete_conversion ICB USD AFN
+add_trade_bank ICC
+find_cycle ICC
+add_conversion ICC AOA ARM 479
+delete_currency DASS INR
+delete_conversion HSBC EUR ALL
+delete_trade_bank ICC
+add_currency FABB BDT
+add_conversion SBI BDT EUR 383
+find_cycle DASS
+find_cycle SBI
+add_trade_bank ICICI
+delete_trade_bank FABB
+add_currency HSBC INR
+delete_conversion FABB AFN AOA
+delete_currency SBI INR
+find_cycle ICICI
+delete_conversion ICICI BSD BDT
+delete_conversion SBI ALL BSD
+add_conversion HSBC AFN ARM 226
+delete_trade_bank ICC
+add_currency DASS AFN
+delete_trade_bank ICB
+add_currency FABB BSD
+delete_currency ICICI BSD
+best_path AOA INR
+delete_trade_bank ICC
+delete_conversion ICICI BDT USD
+add_conversion ICC ALL BSD 205
+delete_conversion HSBC INR EUR
+add_trade_bank DASS
+find_cycle SBI
+add_currency ICC ARM
+delete_conversion ICB AFN INR
+add_currency ICB ARM
+add_trade_bank ICC
+delete_currency HSBC EUR
+add_trade_bank ICC
+add_conversion ICC AFN EUR 481
+best_path AFN EUR
+add_conversion SBI BDT BSD 27
+add_trade_bank ICB
+best_path ARM BSD
+find_cycle HSBC
+add_trade_bank DASS
+add_trade_bank SBI
+add_conversion DASS AFN ALL 21
+delete_currency ICB USD
+delete_currency DASS INR
+add_trade_bank FABB
+delete_trade_bank SBI
+delete_currency ICB BSD
+add_currency ICICI EUR
+add_trade_bank HSBC
+add_currency ICB ALL
+add_currency ICC ALL
+add_currency HSBC INR
+find_cycle DASS
+find_cycle HSBC
+find_cycle FABB
+delete_currency ICC EUR
+add_trade_bank SBI
+find_cycle DASS
+find_cycle SBI
+delete_trade_bank DASS
+delete_conversion FABB USD AFN
+find_cycle ICICI
+best_path AOA ARM
+add_currency FABB ALL
+add_conversion ICB INR USD 498
+add_trade_bank ICICI
+delete_trade_bank FABB
+add_currency SBI ALL
+delete_trade_bank ICICI
+delete_conversion ICICI USD AFN
+add_currency ICB USD
+add_trade_bank HSBC
+add_conversion ICC ALL BDT 389
+add_currency ICICI AFN
+best_path INR ARM
+add_conversion FABB AFN AOA 106
+find_cycle HSBC
+add_conversion ICICI AFN BSD 61
+best_path USD BSD
+best_path ALL BDT
+best_path AFN USD
+delete_trade_bank SBI
+delete_conversion SBI EUR INR
+delete_trade_bank HSBC
+add_conversion ICB INR BSD 458
+delete_trade_bank SBI
+find_cycle FABB
+delete_trade_bank SBI
+delete_trade_bank SBI
+add_conversion ICC AOA ALL 383
+add_trade_bank FABB
+add_currency ICICI USD
+delete_currency DASS USD
+delete_currency HSBC ARM
+add_conversion SBI ARM AOA 197
+add_currency ICC USD
+delete_trade_bank DASS
+best_path BDT EUR
+delete_trade_bank SBI
+add_conversion ICC AFN EUR 431
+delete_trade_bank ICC
+delete_conversion SBI BDT BSD
+delete_trade_bank DASS
+add_trade_bank HSBC
+delete_conversion HSBC ALL EUR
+add_trade_bank ICC
+delete_currency ICB BDT
+add_conversion FABB EUR AOA 346
+delete_currency HSBC EUR
+add_currency FABB ARM
+delete_trade_bank HSBC
+delete_trade_bank ICC
+add_conversion HSBC ALL AFN 312
+add_conversion ICICI INR ALL 27
+best_path BDT AOA
+find_cycle DASS
+best_path EUR USD
+delete_currency ICB INR
+delete_trade_bank ICC
+add_conversion ICICI AFN ALL 265
+delete_currency DASS AOA
+find_cycle HSBC
+add_trade_bank ICC
+find_cycle ICC
+best_path ARM BSD
+delete_conversion FABB AOA ARM
+delete_currency HSBC USD
+add_conversion SBI AOA EUR 386
+find_cycle DASS
+best_path AOA EUR
+find_cycle FABB
+find_cycle ICICI
+add_conversion FABB BSD ALL 284
+find_cycle ICB
+add_trade_bank FABB
+add_trade_bank ICICI
+delete_trade_bank ICB
+delete_trade_bank FABB
+add_conversion ICICI AOA BSD 357
+delete_conversion SBI INR AFN
+delete_currency SBI BSD
+delete_currency ICB ARM
+delete_trade_bank ICB
+add_trade_bank FABB
+delete_currency DASS ALL
+best_path ALL BSD
+delete_currency ICC EUR
+delete_conversion SBI USD AOA
+find_cycle SBI
+add_conversion SBI BSD BDT 476
+best_path INR EUR
+add_currency ICC BDT
+delete_trade_bank ICICI
+best_path BSD INR
+add_currency DASS INR
+add_trade_bank SBI
+delete_trade_bank ICB
+add_trade_bank DASS
+delete_conversion FABB BDT USD
+find_cycle ICB
+add_conversion FABB ALL USD 101
+delete_trade_bank ICB
+find_cycle DASS
+find_cycle HSBC
+add_currency HSBC BSD
+add_conversion ICB ALL INR 138
+add_trade_bank HSBC
+delete_currency SBI AFN
+add_conversion DASS USD INR 24
+delete_trade_bank ICC
+delete_conversion ICB INR BSD
+delete_currency ICICI INR
+delete_currency SBI BDT
+add_conversion ICC USD INR 433
+find_cycle ICC
+delete_trade_bank HSBC
+add_currency ICB AOA
+delete_currency FABB BSD
+add_currency ICICI ARM
+delete_currency HSBC AFN
+add_trade_bank ICB
+find_cycle ICB
+delete_conversion ICB AOA ARM
+best_path BDT ALL
+add_currency FABB BDT
+delete_trade_bank ICB
+best_path AFN AOA
+find_cycle ICC
+best_path EUR BSD
+delete_conversion DASS INR ALL
+add_currency ICICI EUR
+add_currency HSBC AOA
+best_path ARM BSD
+delete_conversion ICICI AFN USD
+best_path INR USD
+delete_conversion ICC INR AFN
+find_cycle ICB
+delete_conversion SBI BDT EUR
+add_trade_bank HSBC
+best_path EUR AFN
+add_conversion HSBC AOA AFN 304
+delete_conversion ICB BDT USD
+exit

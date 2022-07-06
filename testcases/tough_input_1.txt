@@ -1,0 +1,21 @@
+add_trade_bank ICICI 
+add_currency ICICI a
+add_currency ICICI b
+add_currency ICICI c
+add_currency ICICI d
+add_currency ICICI e
+add_currency ICICI f
+add_currency ICICI g
+add_conversion ICICI a b 15
+add_conversion ICICI a e 2
+add_conversion ICICI b c 8
+add_conversion ICICI b g 7
+add_conversion ICICI e b 7
+add_conversion ICICI e f 5
+add_conversion ICICI c d 6
+add_conversion ICICI f d 19
+add_conversion ICICI g d 5
+best_path a d
+second_best_path a d
+find_cycle ICICI
+exit

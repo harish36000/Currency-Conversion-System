@@ -1,0 +1,804 @@
+add_trade_bank HSBC
+add_currency HSBC ALL
+add_currency HSBC AFN
+delete_trade_bank ICC
+add_currency FABB BAS
+delete_conversion HSBC USD BAS
+delete_currency FABB USD
+find_cycle HSBC
+delete_trade_bank ICICI
+delete_conversion ICICI BAS INR
+add_currency ICC BDT
+find_cycle FABB
+find_cycle HSBC
+delete_conversion FABB BDT AFN
+add_conversion ICC GAT AFN 618
+find_cycle FABB
+find_cycle FABB
+delete_currency ICC CAT
+add_currency FABB BAS
+add_conversion HSBC BAS INR 266
+find_cycle FABB
+best_path ARM EUR
+best_path BAS BDT
+delete_currency HSBC CAT
+add_conversion HSBC DSA EUR 731
+add_currency FABB DSA
+add_trade_bank ICICI
+delete_trade_bank FABB
+delete_trade_bank ICICI
+delete_currency ICC BDT
+best_path AOA ALL
+add_conversion FABB INR USD 343
+delete_trade_bank ICICI
+add_currency ICICI GAT
+best_path DSA CAT
+delete_conversion ICC EUR GAT
+add_currency ICC GAT
+add_currency HSBC CAT
+delete_conversion ICC BDT GAT
+add_trade_bank FABB
+find_cycle HSBC
+best_path EUR USD
+delete_trade_bank FABB
+find_cycle FABB
+delete_trade_bank ICC
+add_trade_bank ICICI
+add_trade_bank ICICI
+delete_currency ICICI ARM
+delete_conversion FABB BSD EUR
+delete_currency FABB GAT
+best_path DSA CAT
+delete_trade_bank HSBC
+add_currency HSBC GAT
+add_trade_bank ICICI
+add_currency HSBC BAS
+delete_trade_bank ICICI
+delete_currency ICICI INR
+delete_currency FABB ALL
+add_trade_bank HSBC
+best_path AFN ALL
+delete_currency HSBC GAT
+delete_trade_bank ICC
+delete_currency FABB EUR
+delete_currency ICICI ARM
+add_conversion ICICI CAT BDT 765
+best_path BAS CAT
+add_trade_bank HSBC
+add_conversion FABB EUR AOA 527
+add_trade_bank HSBC
+delete_conversion ICC EUR ARM
+delete_trade_bank HSBC
+add_conversion HSBC BDT ALL 384
+add_trade_bank HSBC
+add_conversion ICICI ARM CAT 343
+add_conversion ICICI USD BAS 1
+add_currency ICC GAT
+delete_currency ICC USD
+delete_currency ICC BAS
+delete_trade_bank ICICI
+find_cycle ICC
+delete_trade_bank FABB
+find_cycle HSBC
+delete_currency FABB BSD
+find_cycle FABB
+add_currency HSBC ARM
+delete_trade_bank HSBC
+best_path AOA BDT
+add_conversion HSBC BSD DSA 350
+delete_trade_bank FABB
+delete_trade_bank ICC
+delete_conversion ICC AOA ALL
+add_conversion HSBC GAT BSD 595
+delete_conversion ICICI ARM EUR
+find_cycle FABB
+delete_conversion HSBC BSD BDT
+add_currency ICICI AFN
+find_cycle ICICI
+delete_currency FABB DSA
+add_conversion ICC INR DSA 639
+find_cycle HSBC
+find_cycle FABB
+delete_trade_bank ICICI
+add_trade_bank HSBC
+delete_currency ICICI BDT
+delete_currency HSBC ARM
+delete_trade_bank HSBC
+delete_conversion HSBC GAT BDT
+find_cycle ICICI
+add_trade_bank FABB
+add_conversion HSBC INR USD 665
+add_currency ICC DSA
+delete_currency ICICI BAS
+add_conversion FABB GAT AFN 150
+delete_trade_bank FABB
+delete_trade_bank ICICI
+delete_conversion ICC USD DSA
+find_cycle HSBC
+best_path BAS CAT
+delete_trade_bank ICC
+delete_currency ICICI BDT
+add_conversion FABB GAT EUR 22
+delete_conversion ICC AOA ALL
+best_path CAT BAS
+add_currency FABB ARM
+add_trade_bank ICC
+find_cycle FABB
+delete_trade_bank FABB
+delete_trade_bank FABB
+add_conversion FABB CAT INR 562
+add_currency FABB AOA
+delete_conversion FABB USD EUR
+add_conversion ICC CAT DSA 493
+delete_trade_bank ICC
+delete_conversion HSBC DSA USD
+add_conversion FABB BAS EUR 356
+add_trade_bank HSBC
+add_conversion ICICI AFN AOA 35
+add_currency FABB AFN
+delete_trade_bank HSBC
+add_currency ICICI CAT
+best_path USD BAS
+delete_trade_bank HSBC
+add_conversion ICC INR EUR 200
+add_trade_bank ICICI
+add_currency FABB BSD
+add_currency FABB INR
+find_cycle FABB
+best_path ARM BAS
+best_path ALL GAT
+find_cycle ICC
+best_path USD CAT
+add_conversion ICC BDT BSD 710
+delete_trade_bank FABB
+find_cycle ICC
+delete_conversion ICC ALL DSA
+best_path INR BDT
+add_trade_bank ICC
+best_path ALL DSA
+find_cycle HSBC
+find_cycle ICC
+best_path AOA DSA
+find_cycle ICICI
+add_currency ICC BSD
+delete_currency ICICI GAT
+best_path ALL ARM
+delete_trade_bank FABB
+find_cycle HSBC
+add_conversion FABB ALL AOA 461
+add_currency ICC GAT
+add_currency ICC EUR
+add_trade_bank ICICI
+add_currency ICC USD
+find_cycle HSBC
+best_path BDT USD
+best_path CAT USD
+add_trade_bank FABB
+find_cycle FABB
+find_cycle HSBC
+find_cycle ICC
+best_path BSD USD
+add_trade_bank FABB
+delete_currency FABB INR
+add_trade_bank ICICI
+best_path DSA ARM
+delete_currency HSBC USD
+best_path AOA DSA
+add_currency HSBC AFN
+add_currency HSBC AFN
+best_path AOA AFN
+find_cycle ICICI
+delete_conversion FABB INR USD
+best_path GAT AFN
+delete_conversion ICICI AFN DSA
+add_trade_bank HSBC
+best_path ARM AFN
+add_currency ICICI ARM
+delete_conversion FABB USD CAT
+delete_trade_bank ICC
+add_conversion ICICI INR EUR 731
+delete_conversion ICICI INR BAS
+delete_conversion HSBC DSA AFN
+delete_trade_bank FABB
+best_path BSD DSA
+find_cycle ICICI
+add_trade_bank ICC
+best_path ARM BAS
+delete_currency FABB INR
+delete_trade_bank HSBC
+add_trade_bank FABB
+delete_trade_bank FABB
+add_conversion FABB AOA GAT 620
+add_currency ICC USD
+delete_currency ICICI DSA
+add_conversion HSBC BAS INR 178
+add_currency ICC ARM
+delete_trade_bank ICICI
+add_currency HSBC DSA
+add_conversion ICC AFN AOA 181
+add_currency FABB GAT
+delete_trade_bank ICC
+add_trade_bank ICICI
+add_trade_bank FABB
+add_conversion HSBC CAT ARM 488
+delete_conversion FABB EUR CAT
+delete_conversion ICC AOA AFN
+add_trade_bank ICICI
+delete_currency ICICI CAT
+delete_trade_bank ICC
+add_currency ICC EUR
+add_currency FABB EUR
+add_trade_bank FABB
+find_cycle HSBC
+add_currency FABB GAT
+delete_currency HSBC CAT
+add_trade_bank FABB
+delete_trade_bank FABB
+add_conversion HSBC USD AFN 156
+add_trade_bank ICC
+delete_trade_bank ICC
+find_cycle FABB
+add_trade_bank ICICI
+find_cycle ICC
+add_conversion ICICI CAT USD 521
+delete_currency ICC ALL
+find_cycle ICICI
+delete_trade_bank HSBC
+delete_trade_bank HSBC
+best_path CAT EUR
+best_path BSD BAS
+best_path EUR ARM
+best_path ARM BSD
+find_cycle ICC
+find_cycle ICC
+delete_trade_bank HSBC
+delete_conversion FABB BAS INR
+add_trade_bank ICICI
+delete_trade_bank ICICI
+best_path GAT BAS
+delete_trade_bank HSBC
+delete_currency FABB BDT
+delete_trade_bank ICC
+delete_currency ICC GAT
+add_trade_bank HSBC
+delete_trade_bank FABB
+best_path ALL BAS
+add_trade_bank ICC
+find_cycle ICICI
+delete_currency FABB BDT
+add_conversion ICICI AOA INR 378
+delete_currency HSBC GAT
+best_path INR BAS
+delete_trade_bank HSBC
+delete_conversion ICICI BAS CAT
+best_path GAT AFN
+delete_conversion FABB CAT AOA
+add_currency HSBC GAT
+delete_trade_bank FABB
+add_currency ICC AOA
+delete_conversion ICICI ARM AOA
+find_cycle ICICI
+add_conversion HSBC CAT DSA 44
+best_path AOA INR
+delete_trade_bank HSBC
+find_cycle HSBC
+delete_trade_bank ICC
+find_cycle HSBC
+add_conversion HSBC INR ALL 459
+delete_conversion HSBC EUR BSD
+delete_conversion ICICI USD BAS
+find_cycle ICICI
+delete_conversion HSBC DSA USD
+best_path GAT AOA
+add_currency ICC DSA
+add_currency FABB BSD
+delete_trade_bank HSBC
+delete_trade_bank ICICI
+find_cycle FABB
+add_trade_bank HSBC
+find_cycle FABB
+find_cycle ICICI
+add_trade_bank HSBC
+add_currency FABB BAS
+find_cycle FABB
+delete_currency ICICI INR
+add_conversion HSBC DSA BSD 650
+add_currency HSBC EUR
+find_cycle ICC
+best_path BSD CAT
+find_cycle HSBC
+delete_trade_bank ICC
+delete_currency ICICI GAT
+delete_currency ICICI USD
+delete_currency ICC CAT
+add_currency ICICI EUR
+add_trade_bank ICC
+add_currency ICICI ALL
+delete_conversion FABB BDT BAS
+add_currency FABB USD
+add_currency ICC BDT
+delete_trade_bank ICC
+delete_currency HSBC ALL
+add_conversion FABB AOA CAT 689
+add_conversion FABB AFN USD 521
+add_conversion FABB EUR DSA 280
+delete_currency HSBC BAS
+add_conversion FABB BAS DSA 536
+add_trade_bank ICC
+add_currency ICC EUR
+delete_conversion ICC USD BAS
+delete_conversion FABB USD INR
+find_cycle FABB
+add_conversion ICICI INR ARM 516
+delete_currency HSBC DSA
+best_path USD BSD
+find_cycle ICC
+add_currency FABB BDT
+add_conversion ICICI DSA AFN 110
+add_currency FABB BDT
+add_trade_bank ICC
+add_conversion ICC AOA CAT 571
+add_currency FABB INR
+find_cycle ICC
+add_conversion FABB EUR ARM 283
+find_cycle FABB
+delete_trade_bank ICC
+best_path USD BAS
+add_trade_bank FABB
+delete_conversion FABB BAS CAT
+delete_currency HSBC DSA
+delete_trade_bank ICICI
+delete_conversion HSBC BSD ALL
+add_trade_bank FABB
+best_path EUR AOA
+add_conversion ICC AFN DSA 607
+add_conversion ICICI BDT ALL 632
+add_trade_bank ICC
+best_path CAT ALL
+best_path ALL DSA
+add_currency FABB AOA
+add_currency FABB GAT
+delete_trade_bank ICICI
+delete_trade_bank HSBC
+delete_currency ICICI EUR
+delete_conversion ICICI AOA INR
+add_currency ICICI BAS
+delete_currency ICICI CAT
+delete_trade_bank HSBC
+add_currency ICICI ALL
+find_cycle FABB
+delete_trade_bank ICC
+best_path ARM DSA
+add_currency ICC USD
+delete_currency ICC BAS
+add_trade_bank HSBC
+delete_currency ICICI BDT
+add_conversion HSBC AFN INR 159
+find_cycle ICC
+add_trade_bank FABB
+delete_trade_bank ICICI
+delete_conversion HSBC BSD AFN
+add_currency ICC ALL
+find_cycle FABB
+best_path BAS INR
+find_cycle ICC
+add_currency FABB BAS
+delete_currency HSBC EUR
+find_cycle FABB
+best_path AFN INR
+best_path USD EUR
+find_cycle ICC
+delete_currency ICC BDT
+delete_trade_bank FABB
+add_trade_bank HSBC
+delete_trade_bank ICICI
+delete_trade_bank FABB
+add_conversion HSBC AOA BSD 425
+add_trade_bank FABB
+find_cycle HSBC
+best_path CAT DSA
+delete_currency ICICI GAT
+delete_trade_bank HSBC
+best_path ARM EUR
+add_trade_bank ICICI
+add_trade_bank HSBC
+best_path ALL AOA
+add_conversion ICICI BAS AFN 216
+delete_trade_bank ICC
+add_trade_bank HSBC
+add_currency ICC ALL
+add_trade_bank FABB
+delete_trade_bank ICICI
+add_currency ICC AOA
+delete_trade_bank ICC
+add_currency ICC DSA
+find_cycle ICC
+delete_currency ICICI EUR
+add_trade_bank ICICI
+add_conversion ICC BDT INR 458
+delete_conversion FABB ARM CAT
+delete_trade_bank ICICI
+add_conversion ICC EUR GAT 255
+find_cycle HSBC
+delete_conversion HSBC USD CAT
+best_path USD EUR
+add_trade_bank HSBC
+delete_currency HSBC USD
+find_cycle ICC
+best_path BAS CAT
+add_conversion FABB BAS DSA 720
+best_path INR BAS
+find_cycle HSBC
+add_conversion ICICI EUR INR 444
+add_currency HSBC BSD
+best_path BSD EUR
+add_conversion ICICI AOA BDT 423
+best_path BSD GAT
+delete_currency HSBC CAT
+add_conversion ICC AOA CAT 630
+add_trade_bank ICICI
+delete_currency ICICI ALL
+add_currency ICICI BAS
+best_path GAT BAS
+delete_conversion ICC DSA ALL
+delete_currency ICICI USD
+delete_trade_bank ICICI
+delete_trade_bank HSBC
+delete_conversion ICICI BSD CAT
+add_trade_bank ICICI
+add_currency ICC BDT
+find_cycle ICICI
+add_currency HSBC USD
+delete_currency FABB ARM
+add_trade_bank HSBC
+delete_currency ICICI BAS
+add_currency HSBC USD
+find_cycle ICC
+delete_currency ICICI BAS
+find_cycle ICC
+add_trade_bank HSBC
+find_cycle HSBC
+delete_trade_bank ICICI
+find_cycle ICC
+add_trade_bank HSBC
+add_trade_bank HSBC
+add_conversion FABB BSD GAT 68
+find_cycle ICICI
+delete_trade_bank ICICI
+delete_currency ICICI GAT
+add_currency FABB AOA
+delete_currency ICC BAS
+delete_trade_bank FABB
+best_path INR BDT
+delete_trade_bank ICC
+delete_conversion ICICI ALL BAS
+delete_trade_bank FABB
+delete_trade_bank HSBC
+add_conversion ICICI ALL AOA 286
+delete_trade_bank HSBC
+add_conversion HSBC EUR BSD 419
+best_path USD DSA
+delete_trade_bank HSBC
+add_trade_bank HSBC
+add_conversion ICC INR BAS 387
+add_currency FABB BSD
+delete_trade_bank HSBC
+delete_trade_bank ICICI
+delete_conversion ICICI DSA BSD
+best_path USD ALL
+best_path DSA BSD
+delete_trade_bank HSBC
+delete_conversion ICC AFN AOA
+best_path BSD AOA
+add_currency FABB GAT
+delete_trade_bank HSBC
+add_trade_bank ICICI
+delete_trade_bank ICC
+best_path ARM EUR
+add_conversion HSBC BSD EUR 403
+add_conversion ICICI BSD INR 509
+delete_conversion FABB ARM CAT
+delete_conversion ICC BSD BDT
+add_conversion ICICI EUR ALL 173
+delete_currency ICC AFN
+delete_trade_bank HSBC
+delete_conversion ICC BDT BSD
+best_path GAT CAT
+add_currency ICICI ALL
+find_cycle ICC
+best_path GAT BAS
+add_conversion ICC AOA EUR 278
+add_trade_bank ICICI
+delete_currency ICICI BDT
+delete_trade_bank FABB
+delete_conversion ICICI INR AOA
+add_currency ICC AOA
+delete_trade_bank ICC
+find_cycle FABB
+add_trade_bank ICICI
+delete_currency ICC GAT
+delete_trade_bank ICC
+add_trade_bank ICICI
+add_trade_bank FABB
+add_conversion ICC BSD ALL 185
+add_trade_bank ICC
+add_currency HSBC CAT
+find_cycle HSBC
+find_cycle ICC
+best_path GAT USD
+delete_conversion ICC BDT USD
+delete_trade_bank FABB
+delete_conversion FABB DSA INR
+add_trade_bank ICC
+delete_trade_bank ICICI
+delete_trade_bank ICICI
+delete_currency ICC AFN
+delete_conversion ICICI USD ARM
+add_conversion ICC INR AOA 156
+add_currency ICICI EUR
+find_cycle HSBC
+best_path INR BAS
+delete_currency HSBC BAS
+delete_trade_bank ICICI
+best_path DSA CAT
+find_cycle ICICI
+add_currency ICICI AOA
+find_cycle ICC
+add_trade_bank FABB
+add_conversion ICICI ALL INR 311
+delete_currency ICC GAT
+delete_currency ICICI AOA
+delete_conversion FABB BSD USD
+find_cycle HSBC
+best_path INR BAS
+delete_conversion ICC BDT AOA
+find_cycle HSBC
+best_path INR AFN
+add_currency ICICI ARM
+delete_currency HSBC CAT
+best_path ARM AFN
+add_trade_bank FABB
+add_currency FABB BSD
+delete_trade_bank HSBC
+find_cycle ICC
+delete_currency HSBC ALL
+delete_conversion ICICI BDT AFN
+delete_conversion HSBC INR GAT
+add_currency ICICI GAT
+delete_conversion ICICI BDT ALL
+find_cycle ICC
+find_cycle ICC
+add_currency ICC CAT
+add_currency FABB AOA
+add_currency FABB INR
+delete_conversion FABB DSA ALL
+add_conversion ICICI ALL DSA 158
+add_currency FABB ARM
+add_trade_bank ICC
+delete_conversion ICICI BSD AFN
+add_trade_bank FABB
+delete_trade_bank ICC
+best_path CAT EUR
+find_cycle FABB
+add_currency ICC USD
+find_cycle ICICI
+delete_trade_bank ICICI
+delete_trade_bank FABB
+delete_trade_bank FABB
+delete_conversion FABB BDT CAT
+delete_currency ICICI EUR
+add_conversion ICC USD AFN 233
+delete_conversion ICC ALL ARM
+add_trade_bank FABB
+add_conversion FABB INR AOA 598
+add_trade_bank FABB
+find_cycle ICC
+add_trade_bank ICC
+delete_currency HSBC ALL
+best_path AFN ALL
+add_conversion FABB AFN ARM 143
+delete_currency FABB BAS
+delete_conversion FABB ALL ARM
+add_currency ICC ARM
+add_conversion HSBC ALL EUR 743
+delete_currency ICC EUR
+delete_trade_bank ICICI
+delete_currency ICICI DSA
+add_currency ICICI DSA
+best_path DSA ARM
+add_trade_bank FABB
+add_conversion ICICI INR GAT 367
+find_cycle ICICI
+delete_conversion HSBC AFN GAT
+add_trade_bank ICC
+add_conversion FABB AFN ALL 676
+add_currency FABB EUR
+add_currency ICICI BSD
+add_conversion HSBC GAT BSD 472
+find_cycle HSBC
+add_conversion HSBC AOA BDT 107
+add_trade_bank ICICI
+add_trade_bank HSBC
+add_currency ICICI BAS
+add_conversion ICICI CAT USD 589
+add_conversion FABB CAT AOA 105
+delete_conversion HSBC BSD ALL
+add_conversion ICICI AOA BAS 449
+add_currency HSBC INR
+best_path USD GAT
+add_conversion FABB CAT GAT 171
+add_currency FABB USD
+find_cycle HSBC
+find_cycle ICC
+add_conversion HSBC ARM GAT 177
+add_conversion FABB GAT BSD 277
+add_trade_bank FABB
+find_cycle HSBC
+delete_trade_bank ICICI
+add_conversion HSBC EUR AOA 787
+best_path AOA DSA
+add_conversion ICICI AFN AOA 600
+delete_conversion HSBC ALL USD
+add_currency ICC BSD
+delete_trade_bank FABB
+delete_conversion ICC ALL BAS
+delete_conversion HSBC ARM BSD
+add_trade_bank ICC
+delete_currency HSBC ALL
+delete_trade_bank ICICI
+delete_currency ICICI USD
+delete_conversion HSBC CAT DSA
+delete_conversion FABB DSA INR
+delete_conversion HSBC DSA ARM
+delete_currency FABB CAT
+find_cycle FABB
+delete_trade_bank FABB
+delete_trade_bank HSBC
+delete_currency FABB ARM
+delete_currency HSBC CAT
+add_conversion HSBC BDT BAS 409
+delete_currency ICICI EUR
+delete_trade_bank HSBC
+delete_trade_bank ICC
+delete_conversion ICICI BDT GAT
+delete_conversion FABB DSA GAT
+best_path EUR USD
+delete_conversion ICC ARM DSA
+delete_conversion HSBC CAT BAS
+add_trade_bank ICICI
+add_conversion ICICI AOA BSD 743
+best_path AFN BAS
+best_path ARM BDT
+find_cycle FABB
+add_trade_bank FABB
+best_path USD ALL
+delete_conversion HSBC BSD USD
+delete_trade_bank ICICI
+delete_trade_bank ICC
+delete_conversion ICC EUR ALL
+find_cycle FABB
+best_path DSA GAT
+best_path ALL AOA
+find_cycle FABB
+add_currency FABB ARM
+add_trade_bank HSBC
+add_conversion ICC GAT ARM 351
+add_trade_bank ICICI
+delete_conversion ICICI BSD USD
+delete_currency ICC GAT
+delete_currency ICC BAS
+add_trade_bank ICC
+delete_conversion ICC BSD GAT
+delete_trade_bank HSBC
+delete_conversion FABB USD CAT
+delete_currency HSBC USD
+delete_trade_bank ICICI
+delete_conversion HSBC USD EUR
+delete_conversion ICC CAT INR
+add_currency ICICI EUR
+delete_conversion FABB BSD CAT
+delete_trade_bank ICICI
+add_conversion ICC AOA INR 251
+delete_trade_bank HSBC
+delete_currency ICICI USD
+delete_currency ICICI CAT
+add_trade_bank ICC
+add_conversion ICC DSA GAT 188
+delete_currency ICC USD
+add_trade_bank FABB
+delete_currency FABB AOA
+delete_trade_bank ICICI
+add_trade_bank ICICI
+delete_currency HSBC AFN
+best_path AFN BSD
+best_path USD BAS
+delete_trade_bank ICICI
+best_path AFN GAT
+find_cycle FABB
+add_currency ICICI BAS
+delete_currency HSBC ALL
+add_currency FABB USD
+delete_currency HSBC ALL
+find_cycle HSBC
+delete_trade_bank ICICI
+delete_trade_bank FABB
+find_cycle FABB
+add_trade_bank FABB
+add_currency ICICI AFN
+add_trade_bank FABB
+delete_currency FABB BSD
+delete_currency ICC BDT
+delete_trade_bank ICICI
+add_conversion ICC CAT DSA 429
+delete_currency HSBC ALL
+add_currency HSBC BDT
+find_cycle ICICI
+delete_trade_bank ICC
+add_trade_bank ICC
+add_currency ICC AFN
+add_currency FABB BAS
+best_path ALL EUR
+add_conversion ICICI BAS CAT 541
+add_conversion ICICI GAT AFN 332
+delete_conversion ICC BAS INR
+add_conversion ICICI AFN CAT 308
+best_path ARM USD
+delete_currency HSBC INR
+delete_conversion ICC USD GAT
+find_cycle FABB
+find_cycle ICICI
+add_conversion ICICI DSA ALL 70
+find_cycle ICICI
+add_conversion ICICI CAT ALL 649
+delete_conversion HSBC AOA USD
+best_path DSA GAT
+delete_trade_bank FABB
+delete_currency FABB USD
+add_currency ICICI BAS
+delete_conversion ICICI INR ALL
+add_currency ICICI ARM
+add_trade_bank HSBC
+add_trade_bank HSBC
+add_currency HSBC AFN
+delete_currency ICICI BSD
+add_currency ICC INR
+delete_trade_bank ICICI
+add_conversion ICC BDT AFN 337
+add_currency ICICI CAT
+add_trade_bank ICC
+add_conversion FABB AOA GAT 556
+find_cycle ICC
+add_trade_bank FABB
+delete_currency ICC EUR
+delete_trade_bank ICC
+add_conversion FABB GAT CAT 227
+delete_trade_bank FABB
+find_cycle HSBC
+add_conversion FABB BAS DSA 544
+add_conversion ICC EUR ALL 21
+find_cycle ICC
+delete_trade_bank ICC
+delete_conversion ICC USD BAS
+add_conversion ICICI CAT USD 145
+add_trade_bank FABB
+add_conversion FABB BDT INR 563
+add_trade_bank FABB
+add_currency ICC AOA
+add_currency ICC ALL
+delete_trade_bank FABB
+add_currency HSBC AFN
+delete_currency ICC EUR
+delete_conversion HSBC ALL AOA
+delete_trade_bank FABB
+add_conversion ICC INR USD 126
+delete_currency HSBC USD
+best_path AFN INR
+add_currency FABB EUR
+delete_conversion HSBC GAT EUR
+best_path EUR BAS
+delete_currency HSBC USD
+find_cycle ICC
+delete_trade_bank HSBC
+best_path AOA AFN
+delete_conversion ICICI EUR CAT
+exit

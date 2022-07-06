@@ -1,0 +1,36 @@
+add_trade_bank XYZ
+add_currency XYZ a
+add_currency XYZ b
+add_currency XYZ c
+add_currency XYZ d
+add_currency XYZ e
+add_currency XYZ f
+add_currency XYZ g
+add_currency XYZ h
+add_currency XYZ i
+add_currency XYZ j
+add_currency XYZ k
+add_conversion XYZ a b 1
+add_conversion XYZ a g 1
+add_conversion XYZ a e 1
+add_conversion XYZ b j 1
+add_conversion XYZ c b 1
+add_conversion XYZ d a 1
+add_conversion XYZ d h 1
+add_conversion XYZ f e 1
+add_conversion XYZ f i 1
+add_conversion XYZ f j 1
+add_conversion XYZ g h 1
+add_conversion XYZ g d 1
+add_conversion XYZ i a 1
+add_conversion XYZ i f 1
+add_conversion XYZ j g 1
+add_conversion XYZ j a 1
+find_cycle XYZ
+delete_conversion XYZ a g
+find_cycle XYZ
+delete_conversion XYZ j a
+find_cycle XYZ
+delete_conversion XYZ j g
+find_cycle XYZ
+exit
